@@ -1,5 +1,0 @@
-首先fork主项目到自己的github中 作为副本
-然后sourcetree拉取自己github中的副本
-创建文件推送给自己的github
-然后再github中使用pull requests 提交副本给主项目
-主项目负责人审核通过
